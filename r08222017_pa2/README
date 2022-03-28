@@ -1,0 +1,18 @@
+This is README file for Algorithm PA#2
+Author: r08222017
+=====
+
+HOW TO CIMPILE:
+
+Then compile the demo, simply follow the following steps
+	make
+======
+HOW TO RUN:
+
+	cd bin/
+	./mps <input_file_name> <output_file_name>
+	For example,
+	under r08222017_pa2/
+	./bin/mps inputs/1000.in outputs/1000.out
+======
+
